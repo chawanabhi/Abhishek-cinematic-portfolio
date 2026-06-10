@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.superpowers
+
+# tooling caches
+.swc
+.claude
+.code-review-graph
+
+# internal dev planning docs
+docs/superpowers

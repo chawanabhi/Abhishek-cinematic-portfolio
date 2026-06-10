@@ -1,0 +1,38 @@
+
+{
+  "site": {
+    "tagline": "SQL Server DBA Portfolio 2026"
+  },
+  "hero": {
+    "taglineHighlight": "experiences",
+    "freelanceNote": "Open to SQL Server DBA, Database Administrator & Full Stack roles.",
+    "availableLabel": "Actively seeking DBA opportunities",
+    "pills": [
+      "SQL Server DBA",
+      "Database Administrator",
+      "Backup & Recovery",
+      "Full Stack Developer"
+    ],
+    "specialistStat": {
+      "value": "SQL Server DBA",
+      "label": "Primary Focus"
+    }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": [
+      "MCA Graduate\nIndustry Ready",
+      "Backup & Recovery\nExpertise",
+       "Database\nAdministration"
+    ]
+  },
+  "footer": {
+    "eyebrow": "Open to DBA & backend opportunities",
+"ctaLines": [
+  "SQL Server DBA",
+  "backup systems"
+],
+"ctaAccent": "high availability."
+  }
+}

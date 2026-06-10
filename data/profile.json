@@ -1,0 +1,219 @@
+{
+  "name": {
+    "first": "Chawan Raju",
+    "last": "Abhishek",
+    "full": "Chawan Raju Abhishek"
+  },
+   "email": "chavanabhi99@gmail.com",
+  "tagline": "Building reliable, secure, and highly available SQL Server environments.",
+
+ 
+"description": "SQL Server DBA Fresher skilled in SQL Server Administration, Backup & Restore, HA/DR, Security, and Performance Tuning. Focused on database availability and reliability.",
+  "roles": {
+    "short": "SQL Server DBA",
+    "detailed": "SQL Server Administration · Backup & Restore · HA/DR · Database Monitoring"
+  },
+  "location": {
+    "based": "India",
+    "availability": "Worldwide"
+  },
+  "available": true,
+"bio": "MCA Graduate and aspiring SQL Server DBA with hands-on experience in Backup & Restore, Database Mirroring, High Availability & Disaster Recovery (HA/DR), Security Management, Monitoring, and Troubleshooting. Skilled in SQL Server Administration, Node.js, Next.js, React, and MongoDB, with knowledge of database performance optimization and maintenance. Passionate about building reliable database systems, scalable web applications, and AI-powered solutions while continuously learning modern technologies and industry best practices.",
+  "stats": [
+    { "value": "MCA", "label": "Post Graduate Degree" },
+    { "value": "10+", "label": "Projects Completed" },
+    { "value": "SQL", "label": "Server DBA Fresher" } 
+  ],
+  "skills": [
+  "Full Stack Developer",
+  "SQL Server DBA",
+  "Node.js Developer",
+  "Next.js Developer",
+  "AI Builder",
+  "Database Administrator",
+  "SQL Server",
+  "Backup & Recovery",
+  "HA/DR",
+  "Database Mirroring",
+  "Performance Tuning",
+  "DBA Monitoring",
+  "Cloud Enthusiast",
+  "Problem Solver"
+  ],
+  "experience": [
+  {
+  "id": 1,
+  "role": "Full Stack Developer Intern",
+  "company": "Cyber Sapient Technologies Pvt Ltd",
+  "companyShort": "CYBER SAPIENT",
+  "type": "Internship",
+  "location": "Bangalore, India",
+  "period": "Apr 2025",
+  "periodEnd": "Jul 2025",
+  "bullets": [
+    "Worked on full stack development tasks using AI-assisted tools like Cursor and Trae IDE to speed up development and debugging.",
+    "Built and modified frontend components and backend logic using modern JavaScript frameworks with AI support.",
+    "Improved development efficiency by leveraging AI tools for code generation, refactoring, and problem solving."
+  ],
+  "desc": "Full stack internship focused on AI-assisted development using Cursor and Trae IDEs for faster coding, debugging, and feature implementation across frontend and backend tasks.",
+  "tech": [
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Cursor AI",
+    "Trae IDE",
+    "Git"
+  ]
+
+},{
+  "id": 5,
+  "role": "SQL Server DBA (Learning & Lab Practice)",
+  "company": "Self-Learning / DBA Lab",
+  "companyShort": "SQL DBA LAB",
+  "type": "Personal Project",
+  "location": "India",
+  "period": "2025",
+  "periodEnd": "Present",
+  "bullets": [
+    "Created and managed Hyper-V virtual machines to build isolated SQL Server DBA practice environments.",
+    "Installed and configured SQL Server instances for hands-on administration practice.",
+    "Implemented Backup & Restore strategies to ensure data recovery and integrity.",
+    "Practiced Log Shipping and Database Mirroring to understand High Availability and Disaster Recovery concepts.",
+    "Worked on SQL Server Agent Jobs, maintenance plans, and scheduled database tasks.",
+    "Performed performance monitoring, index management, and basic query optimization techniques."
+  ],
+  "desc": "Hands-on SQL Server DBA lab using Hyper-V to practice core administration, backup strategies, HA/DR concepts like Log Shipping and Mirroring, and performance tuning.",
+  "tech": [
+    "Hyper-V",
+    "SQL Server",
+    "SSMS",
+    "Backup & Restore",
+    "Log Shipping",
+    "Database Mirroring",
+    "HA/DR",
+    "SQL Server Agent",
+    "Performance Tuning"
+  ]
+}
+  ],
+  "projects": [
+      {
+    "id": 1,
+    "title": "SQL Server DBA Lab",
+    "subtitle": "Database Administration Practice Environment",
+    "type": "Database",
+    "link": "https://github.com/chawanabhi/sqlserverdba",
+    "image": "/assets/project-dba.png",
+    "tech": [
+      "SQL Server",
+      "T-SQL",
+      "SSMS",
+      "Backup & Restore",
+      "Log Shipping",
+      "Always On AG"
+    ],
+    "desc": "Personal practice environment for mastering SQL Server DBA concepts including HA/DR, backup strategies, and performance optimization."
+  },
+  {
+    "id": 2,
+    "title": "Aurora's Library",
+    "subtitle": "Library Management System",
+    "type": "Full Stack",
+    "link": "https://github.com/chawanabhi/Aurora-s_library",
+    "image": "/assets/project-library.png",
+    "tech": ["React", "Spring Boot", "MySQL", "Hibernate", "REST API"],
+    "desc": "Full-stack Library Management System with book tracking, user management, and borrow/return workflow."
+  },
+  {
+    "id": 3,
+    "title": "Online Banking System",
+    "subtitle": "Digital Banking Platform",
+    "type": "Full Stack",
+    "link": "https://github.com/chawanabhi/SB-Bankproject",
+    "image": "/assets/project-banking.png",
+    "tech": ["React", "Node.js", "MySQL", "REST API", "Spring Boot", "Java", "JDBC"],
+    "desc": "Comprehensive online banking platform with account management, transaction processing, and security features."
+  },
+  {
+  "id": 4,
+  "title": "Developer Portfolio v1",
+  "subtitle": "Personal Portfolio Website",
+  "type": "Portfolio",
+  "link": "https://chawanabhi.github.io/portfolio/",
+  "image": "/assets/project-portfolio.png",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+     "Tailwind CSS",
+    "GitHub Pages"
+  ],
+  "desc": "My first personal portfolio website showcasing educational background, technical skills, SQL Server DBA learning path, certifications, and academic projects. Built using HTML, CSS, and JavaScript and deployed on GitHub Pages."
+},
+{
+  "id": 5,
+  "title": "Professional Portfolio v2",
+  "subtitle": "Modern Interactive Portfolio",
+  "type": "Portfolio",
+  "link": "https://chawanabhi.github.io/chawanabhi_portfolio/",
+  "image": "/assets/project-portfolio1.png",
+  "tech": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Framer Motion",
+    "Responsive Design"
+  ],
+  "desc": "A modern and interactive portfolio designed to highlight my SQL Server DBA expertise, Java development projects, certifications, technical skills, and professional journey. Features responsive layouts, smooth animations, and enhanced user experience."
+}
+],
+  "publications": [
+   {
+    "id": 1,
+    "title": "SQL Server DBA",
+    "platform": "Database Administration",
+    "year": "2026",
+   
+    "desc": "Hands-on experience with SQL Server Administration, Backup & Restore, Log Shipping, Always On Availability Groups, Query Optimization, Indexing, Execution Plans, Performance Tuning, and Database Monitoring."
+  },
+  {
+    "id": 2,
+    "title": "Java & Spring Boot",
+    "platform": "Backend Development",
+    "year": "2026",
+   
+    "desc": "Experience building REST APIs and enterprise applications using Java, Spring Boot, Hibernate, JDBC, Spring MVC, and Microservices architecture."
+  },
+  {
+    "id": 3,
+    "title": "Frontend Development",
+    "platform": "Web Technologies",
+    "year": "2026",
+  
+    "desc": "Skilled in ReactJS, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Responsive Design, and modern UI development."
+  },
+  {
+    "id": 4,
+    "title": "Tools, IDEs & AI",
+    "platform": "Development Ecosystem",
+    "year": "2026",
+   
+    "desc": "Proficient with SSMS, Azure Data Studio, VS Code, Eclipse, Spring Tool Suite (STS), Git, GitHub, Postman, Cursor AI, ChatGPT, GitHub Copilot, Google Gemini, and Claude AI."
+  }
+  ],
+"socials": [
+  {
+    "label": "GitHub",
+    "href": "https://github.com/chawanabhi"
+  },
+  {
+    "label": "LinkedIn",
+    "href": "https://www.linkedin.com/in/chawan-raju-abhishek-813a85360"
+  },
+  {
+    "label": "Instagram",
+    "href": "https://www.instagram.com/c_h_a_v_a_n_abhi"
+  }
+]
+}
