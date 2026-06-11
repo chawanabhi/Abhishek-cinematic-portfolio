@@ -44,7 +44,7 @@ It highlights real-world database administration skills, backend systems, and mo
 ## ⚡ Getting Started
 
 ```bash
-git clone https://github.com/chawanabhi/Abhishek-cinematic-portfolio.git
-cd sql-server-dba-portfolio
+git clone https://github.com/chawanabhi/Abhishek-cinematic-portfolio
+cd Abhishek-cinematic-portfolio
 npm install
 npm run dev
